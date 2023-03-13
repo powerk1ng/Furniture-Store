@@ -1,0 +1,76 @@
+
+{
+    "furniture": [
+      {
+        "id": "1",
+        "name": "Sofa",
+        "description": "A comfortable seating arrangement for your living room",
+        "price": 599.99,
+        "image": "sofa.avif",
+        "category": "Living Room",
+        "material": "Leather",
+        "color": "Brown"
+      },
+      {
+        "id": "2",
+        "name": "Dining Table",
+        "description": "A table to enjoy your meals with your family and friends",
+        "price": 799.99,
+        "image": "table.avif",
+        "category": "Dining Room",
+        "material": "Wood",
+        "color": "Oak"
+      },
+      {
+        "id": "3",
+        "name": "Bed",
+        "description": "A comfortable bed to rest and relax after a long hard day",
+        "price": 999.99,
+        "image": "bed.avif",
+        "category": "Bedroom",
+        "material": "Metal",
+        "color": "Black"
+      },
+      {
+        "id": "4",
+        "name": "Bookshelf",
+        "description": "A storage for your books and decorative items",
+        "price": 299.99,
+        "image": "bookshelf.avif",
+        "category": "Home Office",
+        "material": "Wood",
+        "color": "White"
+      },
+      {
+        "id": "5",
+        "name": "Armchair",
+        "description": "A cozy armchair for your reading nook",
+        "price": 399.99,
+        "image": "armchair.avif",
+        "category": "Living Room",
+        "material": "Fabric",
+        "color": "Beige"
+      },
+      {
+        "id": "6",
+        "name": "Coffee Table",
+        "description": "A small table for your coffee and snacks",
+        "price": 199.99,
+        "image": "coffee-table.avif",
+        "category": "Living Room",
+        "material": "Wood",
+        "color": "Walnut"
+      },
+      {
+        "id": "7",
+        "name": "Office Chair",
+        "description": "A comfortable chair for your home office",
+        "price": 149.99,
+        "image": "office-chair.avif",
+        "category": "Home Office",
+        "material": "Mesh",
+        "color": "Black"
+      }
+    ]
+  }
+  

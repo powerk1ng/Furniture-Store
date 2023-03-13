@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,500,700,900&display=swap");
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+    font-weight: 300;
+}
